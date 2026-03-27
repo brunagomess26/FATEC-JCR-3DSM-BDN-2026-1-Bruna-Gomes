@@ -1,6 +1,6 @@
 # Portfólio – Banco de Dados Não-Relacional – 2026/1
 ## Aluno
-- Nome:
+- Nome: Bruna Rodrigues Gomes
 - LinkedIn:
 - GitHub:
 ---
